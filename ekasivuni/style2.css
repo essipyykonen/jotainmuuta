@@ -1,0 +1,52 @@
+h1 {
+	color: #8E70BC;
+	text-align: justify;
+	border: 1px solid black;
+	background-color: #2f1f4f;
+}
+
+h2 {
+	color: #A98BD9;
+	text-align: justify;
+	border: 1px solid black;
+	background-color: #2f1f4f;
+}
+
+p {
+	color: #DDBCFF;
+	text-align: justify;
+}
+
+li {
+	color: #DDBCFF;
+	text-align: justify;
+}
+
+body {
+	background-color: #493175;
+}
+
+body, html {
+	height: 100%;
+}
+
+ul {
+	text-align: justify;
+	list-style-position: inside;
+}
+
+.color-properties {
+	background-color: #3d2963;
+}
+
+.fancy-header {
+	font-family: Courier New;
+}
+
+.toinen-otsikko {
+	font-family: Courier New;
+}
+
+#image-float {
+	float: left;
+}
